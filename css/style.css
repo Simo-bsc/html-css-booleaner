@@ -54,3 +54,20 @@ h1{
 h4{
    color: gray;
 }
+
+.text-img1{
+    background-image: url(../img/monitor.jpg); 
+    height: 200px;
+    width: 250px;
+    background-position: center;
+    color: white;
+}
+
+.text-img2{
+    background-image: url(../img/graph.jpg); 
+    height: 200px;
+    width: 250px;
+    background-position: center;
+    margin-top: 10px;
+    color: white;
+}
