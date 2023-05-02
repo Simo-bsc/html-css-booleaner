@@ -14,3 +14,20 @@
     
 
 }
+
+h1{
+    font-size: 50px;
+    margin: auto;
+}
+
+#color-writer{
+    color: rgb(0, 119, 255);
+}
+
+.font-header{
+    color: gray;    
+}
+
+p{
+    margin: auto;
+}
