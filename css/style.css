@@ -11,7 +11,7 @@
 }
 
 #Logo{
-    
+
 
 }
 
@@ -25,9 +25,12 @@ h1{
 }
 
 .font-header{
-    color: gray;    
+    color: gray;
 }
 
-p{
-    margin: auto;
+.paragraph{
+  margin: auto;
 }
+
+/* MAIN */
+
