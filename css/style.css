@@ -23,6 +23,15 @@ h1{
     margin: auto;
 }
 
+table{
+    height: 300px;
+    width: 100%;
+}
+
+.distance{
+    width: 400px;
+}
+
 #color-writer{
     color: rgb(0, 119, 255);
 }
